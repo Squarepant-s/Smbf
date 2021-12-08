@@ -14,4 +14,4 @@
 
   $ cd Smbf
 
-  $ python2 Syber.py
+  $ python2 syber.py
