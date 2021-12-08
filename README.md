@@ -12,6 +12,6 @@
 
   $ git clone https://github.com/Squarepant-s/Smbf
 
-  $ cd Dump
+  $ cd Smbf
 
-  $ python2 dump.py
+  $ python2 Syber.py
