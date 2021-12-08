@@ -10,7 +10,7 @@
 
   $ pip2 install bs4
 
-  $ git clone https://github.com/RozhakXD/Dump
+  $ git clone https://github.com/Squarepant-s/Smbf
 
   $ cd Dump
 
