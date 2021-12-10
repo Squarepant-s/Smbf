@@ -26,6 +26,11 @@ logo = """  ____  __  __ ____  _____
 \___ \| |\/| |  _ \| |_
  ___) | |  | | |_) |  _|
 |____/|_|  |_|____/|_| """
+
+print('Author : BobsTzy') 
+print('Facebook : Tiara Pandu') 
+print('Recode By : Squarepant-s')
+
 mbasic_h={"Host":"mbasic.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"}
 free_h={"Host":"free.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"}
 mfb_h={'Host': 'm.facebook.com', 'cache-control': 'max-age=0', 'upgrade-insecure-requests': '1', 'user-agent':ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate', 'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'}
@@ -64,10 +69,10 @@ def login():
     os.system('clear')
     print logo
     print('──────────────────────────────────────────')
-    print('[1] Login Pakai Token')
-    print('[2] Login Pakai Cookies')
-    print('[3] Cara Dapat Token/Cookies')
-    print('[0] Keluar')
+    print('[1] Login Dengan Token')
+    print('[2] Login Dengan Cookies')
+    print('[3] Cara Mendapatkan Token/Cookies')
+    print('[0] Out')
     print('──────────────────────────────────────────')
     lg = raw_input('[?] Input : ')
     if lg == '':
@@ -125,7 +130,7 @@ def login():
     elif lg == '0' or lg == '00':
         exit()
     else:
-        exit('[x] Isi Dengan Benar')
+        exit('[x] Isi Dengan Benar!')
 ##### MENU #####
 def menu():
   try:
@@ -219,7 +224,7 @@ def teman():
                 login()
         try:
 		limit = '5000'
-                file = 'yuume.json'
+                file = 'BobsTzy.json'
 		print('──────────────────────────────────────────')
 		print('[•] Nama File : '+file)
                 try:
