@@ -27,9 +27,11 @@ logo = """  ____  __  __ ____  _____
  ___) | |  | | |_) |  _|
 |____/|_|  |_|____/|_| """
 
+print('——————————————————————————') 
 print('Author : BobsTzy') 
 print('Facebook : Tiara Pandu') 
 print('Recode By : Squarepant-s')
+print('——————————————————————————') 
 
 mbasic_h={"Host":"mbasic.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"}
 free_h={"Host":"free.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"}
