@@ -22,18 +22,12 @@ except ImportError:
 ua = ('Mozilla/5.0 (Linux; Android 5.0; Lenovo A1000 Build/S100; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/MESSENGER;FBAV/110.0.0.14.69;]')
 ### Logo ###
 logo = """  ____  __  __ ____  _____
-/ ___||  \/  | __ )|  ___|
-\___ \| |\/| |  _ \| |_
- ___) | |  | | |_) |  _|
+/ ___||  \/  | __ )|  ___|        *Author  :   . /BobsTzy                                                                 
+\___ \| |\/| |  _ \| |_           *Facebook  :  Tiara Pandu
+ ___) | |  | | |_) |  _|          *Github  :  Squarepant-s
 |____/|_|  |_|____/|_| """
 
- - author      : BobsTzy
- - facebook    : facebook.com/tiara.pandu.5
- - fanspage    : facebook.com/100022086172556
- - whatsap     : +6285256774185
- - github      : github.com/Squarepant-s
- - script name : KR. (Kang-Recode)
-
+ 
 mbasic_h={"Host":"mbasic.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"}
 free_h={"Host":"free.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate","accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"}
 mfb_h={'Host': 'm.facebook.com', 'cache-control': 'max-age=0', 'upgrade-insecure-requests': '1', 'user-agent':ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8', 'accept-encoding': 'gzip, deflate', 'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7'}
