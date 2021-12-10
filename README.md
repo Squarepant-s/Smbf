@@ -1,17 +1,19 @@
 # Smbf
 
-  $ pkg update && upgrade
+ $ pkg update && upgrade
 
-  $ pkg install git
+ $ pkg install git
 
-  $ pkg install python2
+ $ pkg install python2
 
-  $ pip2 install requests
+ $ pip2 install requests
 
-  $ pip2 install bs4
+ $ pip2 install mechanize
 
-  $ git clone https://github.com/Squarepant-s/Smbf
+ $ pip2 install bs4
 
-  $ cd Smbf
+ $ git clone https://github.com/squarepant-s/Smbf
 
-  $ python2 syber.py
+ $ cd Smbf
+
+ $ python2 ok.py
