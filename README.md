@@ -12,7 +12,7 @@
 
  $ pip2 install bs4
 
- $ git clone https://github.com/squarepant-s/Smbf
+ $ git clone https://github.com/Squarepant-s/Smbf
 
  $ cd Smbf
 
