@@ -16,4 +16,4 @@
 
  $ cd Smbf
 
- $ python2 ok.py
+ $ python2 dark.py
