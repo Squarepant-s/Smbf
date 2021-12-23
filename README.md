@@ -3,7 +3,7 @@ $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
 $ git clone https://github.com/Squarepant-s/Smbf<br>
-$ cd zafi <br>
+$ cd Smbf <br>
 $ pip2 install -r Recod.Tols <br>
 $ python2 Square.py <br>
 #
