@@ -4,7 +4,7 @@ $ pkg install python2 <br>
 $ pkg install git <br>
 $ git clone https://github.com/Mark-Zuck/zafi <br>
 $ cd zafi <br>
-$ pip2 install -r zona.zafi <br>
+$ pip2 install -r Recod.Tols <br>
 $ python2 Square.py <br>
 #
 #### Info Menu :<br>
